@@ -1,9 +1,7 @@
-```html
+
 <h1 align="center">Hey there 👋, I'm Hemant Goyal!</h1>
 
-<h3 align="center">
-  Full-Stack Developer | MERN Stack | Java | AI Enthusiast
-</h3>
+<h3 align="center">Full-Stack Developer | MERN Stack | Java | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hemantgoyal000&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -74,21 +72,10 @@ I love turning ideas into practical projects, exploring emerging technologies, a
 
 ## 📂 My Projects
 
-Check out my repositories to explore my development journey, experiments, and projects.
-
 <p align="center">
   <a href="https://github.com/Hemantgoyal000?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
   </a>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hemantgoyal000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemantgoyal000&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -97,14 +84,6 @@ Check out my repositories to explore my development journey, experiments, and pr
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Hemantgoyal000&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hemantgoyal000&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -140,4 +119,3 @@ Check out my repositories to explore my development journey, experiments, and pr
 </p>
 
 <h3 align="center">💻 Keep Learning | Keep Building | Keep Growing 🚀</h3>
-```
