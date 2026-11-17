@@ -1,35 +1,143 @@
-<h1 align="center">Hi 👋, I'm Hemant Goyal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+```html
+<h1 align="center">Hey there 👋, I'm Hemant Goyal!</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantgoyal000&label=Profile%20views&color=0e75b6&style=flat" alt="hemantgoyal000" /> </p>
+<h3 align="center">
+  Full-Stack Developer | MERN Stack | Java | AI Enthusiast
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemantgoyal000" alt="hemantgoyal000" /></a> </p>
-
-- 🌱 I’m currently learning **MERN Stack, Data Structures & Algorithms (Java), and AI Integration.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Hemantgoyal000](https://github.com/Hemantgoyal000)
-
-- 💬 Ask me about **JavaScript, React.js, Node.js, Express.js, MongoDB, REST APIs**
-
-- 📫 How to reach me **goyalhemant431@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/hemant--goyal/](https://www.linkedin.com/in/hemant--goyal/)
-
-- ⚡ Fun fact **I believe the best way to learn programming is by building projects, breaking things, and figuring out how to fix them! 🚀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hemantgoyal000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemantgoyal000" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hemant--goyal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hemant--goyal/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/hemant.goyall/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hemant.goyall/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@hemant_goyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@hemant_goyal" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hemantgoyal000&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Learning+DSA+with+Java;Building+Real-World+Projects;Always+Learning+%26+Growing" alt="Typing SVG"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemantgoyal000&show_icons=true&locale=en&layout=compact" alt="hemantgoyal000" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemantgoyal000&show_icons=true&locale=en" alt="hemantgoyal000" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemantgoyal000&" alt="hemantgoyal000" /></p>
+I'm a passionate **Full-Stack Developer** who enjoys building modern, responsive, and scalable web applications.
+
+My interests include **MERN Stack Development, Backend Engineering, Artificial Intelligence, and Data Structures & Algorithms**.
+
+I love turning ideas into practical projects, exploring emerging technologies, and solving real-world problems through code.
+
+- 🌱 Currently learning **Backend Development, MERN Stack & DSA with Java**
+- 💻 Building real-world applications using **React, Node.js & MongoDB**
+- 🤖 Exploring **AI Integration** and AI-powered applications
+- 🧠 Improving problem-solving skills through **Java & DSA**
+- 📚 Experienced in **WordPress Website Management**
+- 🎯 Goal: To grow as a skilled Full-Stack Software Developer
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java" />
+</p>
+
+### ⚛️ Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+</p>
+
+### ⚙️ Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🗄️ Database & API Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,postman" />
+</p>
+
+### 🔧 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+## 👨‍💻 What I Do
+
+- Build responsive and user-friendly web applications.
+- Develop RESTful APIs and backend services.
+- Work with databases and authentication systems.
+- Integrate third-party APIs and AI services.
+- Practice DSA and continuously improve coding skills.
+- Explore new technologies through hands-on projects.
+
+---
+
+## 📂 My Projects
+
+Check out my repositories to explore my development journey, experiments, and projects.
+
+<p align="center">
+  <a href="https://github.com/Hemantgoyal000?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hemantgoyal000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemantgoyal000&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hemantgoyal000&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hemantgoyal000&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:goyalhemant431@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/hemant--goyal/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/hemant.goyall/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@hemant_goyal">
+    <img src="https://skillicons.dev/icons?i=youtube" height="40" alt="YouTube"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Hemantgoyal000">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>⚡ Fun Fact:</b> I believe the best way to learn programming is by building projects, breaking things, and figuring out how to fix them!
+</p>
+
+<h3 align="center">💻 Keep Learning | Keep Building | Keep Growing 🚀</h3>
+```
